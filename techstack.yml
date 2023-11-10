@@ -1,0 +1,680 @@
+repo_name: fisforfaheem/flet
+report_id: dcaac1691c90b1cdf602bb17225fb356
+repo_type: Public
+timestamp: '2023-11-10T07:02:41+00:00'
+requested_by: FeodorFitsner
+provider: github
+branch: main
+detected_tools_count: 56
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source: Repo Metadata
+- name: Dart
+  description: A new web programming language with libraries, a virtual machine, and
+    tools
+  website_url: https://www.dartlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source: Repo Metadata
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source: Repo Metadata
+- name: Swift
+  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source: Repo Metadata
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source: client/android/app/build.gradle
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-05-20 03:53:42.000000000 Z
+- name: Flutter
+  description: Cross-platform mobile framework from Google
+  website_url: https://flutter.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source: studio/client/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-10-11 15:56:59.000000000 Z
+- name: Gin Gonic
+  description: 'HTTP web framework written in Go '
+  website_url: https://gin-gonic.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/4221/7894478.png
+  detection_source: server/go.mod
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-04-29 00:31:10.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 5.0.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: client/pubspec.lock
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-08-21 17:47:38.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source: server/go.mod
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-03-27 23:48:20.000000000 Z
+- name: CMake
+  description: 'An open-source system that manages the build process '
+  website_url: http://www.cmake.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source: Repo Metadata
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source: client/android/app/build.gradle
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-03-28 03:15:34.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source: sdk/python/packages/flet/pyproject.toml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-01-16 03:24:39.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source: studio/client/ios/Gemfile
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-05-20 16:38:28.000000000 Z
+- name: fastlane
+  description: Connect all iOS deployment tools into one streamlined workflow
+  website_url: https://fastlane.tools/
+  version: 2.211.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Mobile Continuous Integration
+  image_url: https://img.stackshare.io/service/2383/11098337.png
+  detection_source_url: client/ios/Gemfile.lock
+  detection_source: studio/client/ios/Gemfile
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-05-20 16:38:28.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-08-21 17:47:38.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source: client/android/app/build.gradle
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-05-20 03:53:42.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  version: 1.11.3
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: client/ios/Gemfile.lock
+  detection_source: studio/client/ios/Podfile.lock
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-05-20 16:58:20.000000000 Z
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source: Repo Metadata
+- name: js
+  website_url: www.js.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/5588/jscom.png
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-08-21 17:47:38.000000000 Z
+- name: audioplayers
+  description: A Flutter plugin to play multiple audio files simultaneously
+  package_url: https://pub.dartlang.org/audioplayers
+  version: 4.0.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: client/pubspec.lock
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-05-11 20:07:12.000000000 Z
+- name: collection
+  description: Collections and utilities functions and classes related to collections
+  package_url: https://pub.dartlang.org/collection
+  version: 1.17.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: client/pubspec.lock
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-08-21 17:47:38.000000000 Z
+- name: equatable
+  description: A Dart package that helps to implement value based equality without
+    needing to explicitly override == and hashCode
+  package_url: https://pub.dartlang.org/equatable
+  version: 2.0.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: client/pubspec.lock
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-08-21 17:47:38.000000000 Z
+- name: fl_chart
+  description: A highly customizable Flutter chart library that supports Line Chart
+  package_url: https://pub.dartlang.org/fl_chart
+  version: 0.62.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: client/pubspec.lock
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-05-11 21:10:55.000000000 Z
+- name: flutter
+  description: Visit flutter.io to get started
+  package_url: https://pub.dartlang.org/flutter
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: client/pubspec.lock
+  detection_source: studio/client/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-10-11 15:56:59.000000000 Z
+- name: flutter_highlight
+  description: Syntax highlighting widget for Flutter with lots of languages and themes
+    support
+  package_url: https://pub.dartlang.org/flutter_highlight
+  version: 0.7.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: client/pubspec.lock
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-05-11 21:10:55.000000000 Z
+- name: flutter_markdown
+  description: A Markdown renderer for Flutter
+  package_url: https://pub.dartlang.org/flutter_markdown
+  version: 0.6.14
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: client/pubspec.lock
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-05-11 21:10:55.000000000 Z
+- name: flutter_redux
+  description: A set of utility Widgets that Provide and Connect to a Redux Store
+  package_url: https://pub.dartlang.org/flutter_redux
+  version: 0.10.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: client/pubspec.lock
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-05-11 21:10:55.000000000 Z
+- name: flutter_svg
+  description: An SVG rendering and widget library for Flutter
+  package_url: https://pub.dartlang.org/flutter_svg
+  version: 2.0.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: client/pubspec.lock
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-05-11 21:10:55.000000000 Z
+- name: highlight
+  description: Syntax highlighting for Dart with lots of languages and themes support
+  package_url: https://pub.dartlang.org/highlight
+  version: 0.7.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: client/pubspec.lock
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-01-16 03:24:39.000000000 Z
+- name: http
+  description: A composable
+  package_url: https://pub.dartlang.org/http
+  version: 0.13.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: client/pubspec.lock
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-08-21 17:47:38.000000000 Z
+- name: js
+  description: Annotations to create static Dart interfaces for JavaScript APIs
+  package_url: https://pub.dartlang.org/js
+  version: 0.6.7
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: client/pubspec.lock
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-08-21 17:47:38.000000000 Z
+- name: markdown
+  description: A portable Markdown library written in Dart that can parse Markdown
+    into HTML
+  package_url: https://pub.dartlang.org/markdown
+  version: 7.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: client/pubspec.lock
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-05-11 21:10:55.000000000 Z
+- name: path
+  description: A string-based path manipulation library
+  package_url: https://pub.dartlang.org/path
+  version: 1.8.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: client/pubspec.lock
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-01-16 03:24:39.000000000 Z
+- name: redux
+  description: Redux is a predictable state container for Dart and Flutter apps
+  package_url: https://pub.dartlang.org/redux
+  version: 5.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: client/pubspec.lock
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-08-21 17:47:38.000000000 Z
+- name: shake
+  description: A flutter package to detect phone shakes
+  package_url: https://pub.dartlang.org/shake
+  version: 2.2.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: client/pubspec.lock
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-05-11 21:10:55.000000000 Z
+- name: shared_preferences
+  description: Flutter plugin for reading and writing simple key-value pairs
+  package_url: https://pub.dartlang.org/shared_preferences
+  version: 2.0.17
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: client/pubspec.lock
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-09-08 02:16:42.000000000 Z
+- name: url_launcher
+  description: Flutter plugin for launching a URL
+  package_url: https://pub.dartlang.org/url_launcher
+  version: 6.1.8
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: client/pubspec.lock
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-08-21 17:47:38.000000000 Z
+- name: web_socket_channel
+  description: StreamChannel wrappers for WebSockets
+  package_url: https://pub.dartlang.org/web_socket_channel
+  version: 2.3.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: client/pubspec.lock
+  detection_source: package/pubspec.yaml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-05-11 21:10:55.000000000 Z
+- name: httpx
+  description: The next generation HTTP client
+  package_url: https://pypi.org/httpx
+  version: 0.23.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20315/default_5f4e928dbcb1c4db4050881fc2e0229785fc931c.png
+  detection_source_url: sdk/python/poetry.lock
+  detection_source: sdk/python/packages/flet/pyproject.toml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-01-16 03:24:39.000000000 Z
+- name: oauthlib
+  description: A generic
+  package_url: https://pypi.org/oauthlib
+  version: 3.2.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20048/default_d9e0956c82c17d568b62f3b0d5e2080c1e501e59.png
+  detection_source_url: sdk/python/poetry.lock
+  detection_source: sdk/python/packages/flet/pyproject.toml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-01-16 03:24:39.000000000 Z
+- name: packaging
+  description: Core utilities for Python packages
+  package_url: https://pypi.org/packaging
+  version: '23.0'
+  license: BSD-3-Clause,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19894/default_f716e4bc541a9eb6e3f5b7a20d7c35355075b0b4.png
+  detection_source_url: sdk/python/poetry.lock
+  detection_source: sdk/python/packages/flet/pyproject.toml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-01-16 03:24:39.000000000 Z
+- name: typing-extensions
+  description: Backported and Experimental Type Hints for Python 3.5+
+  package_url: https://pypi.org/typing-extensions
+  version: 4.5.0
+  license: Python-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19875/default_2270bfab784e3d2c2d999d26b11ee478a9dad238.png
+  detection_source_url: sdk/python/poetry.lock
+  detection_source: sdk/python/packages/flet/pyproject.toml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-01-16 03:24:39.000000000 Z
+- name: watchdog
+  description: Filesystem events monitoring
+  package_url: https://pypi.org/watchdog
+  version: 2.2.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19927/default_bb29140b72c0fb9789e567bba0ef0ffadeaef5d4.png
+  detection_source_url: sdk/python/poetry.lock
+  detection_source: sdk/python/packages/flet/pyproject.toml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-01-16 03:24:39.000000000 Z
+- name: websocket-client
+  description: WebSocket client for Python. hybi13 is supported
+  package_url: https://pypi.org/websocket-client
+  version: 1.5.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19910/default_67f813d4aac73d024261bcfded6ef2b918e384a0.png
+  detection_source_url: sdk/python/poetry.lock
+  detection_source: sdk/python/packages/flet/pyproject.toml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-01-16 03:24:39.000000000 Z
+- name: websockets
+  description: An implementation of the WebSocket Protocol
+  package_url: https://pypi.org/websockets
+  version: '10.4'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19951/default_fbe690a687f1af7dc36ac3d526708be3294c4cc9.png
+  detection_source_url: sdk/python/poetry.lock
+  detection_source: sdk/python/packages/flet/pyproject.toml
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2023-01-16 03:24:39.000000000 Z
+- name: org.jetbrains.kotlin:kotlin-stdlib-jdk7
+  description: Kotlin Standard Library JDK 7 extension
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source: client/android/app/build.gradle
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-03-28 03:15:34.000000000 Z
+- name: cocoapods
+  description: CocoaPods manages library dependencies for your Xcode project
+  package_url: https://rubygems.org/cocoapods
+  version: 1.11.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19189/default_2266a6c0e2693d55b1999a7c5db4be13e5720232.png
+  detection_source_url: client/ios/Gemfile.lock
+  detection_source: studio/client/ios/Gemfile
+  last_updated_by: Feodor Fitsner
+  last_updated_on: 2022-05-20 16:58:20.000000000 Z
