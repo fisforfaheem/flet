@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 fisforfaheem/flet is built on the following main stack:
+
 - [Gradle](https://www.gradle.org/) – Java Build Tools
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [Python](https://www.python.org) – Languages
@@ -26,11 +27,13 @@ fisforfaheem/flet is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 fisforfaheem/flet is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
@@ -55,14 +58,15 @@ fisforfaheem/flet is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [fisforfaheem/flet](https://github.com/fisforfaheem/flet)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|56<br/>Tools used|11/10/23 <br/>Report generated|
+|56<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -349,13 +353,13 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[httpx](https://pypi.org/httpx)|v0.23.3|01/16/23|Feodor Fitsner |BSD-3-Clause|N/A|
-|[oauthlib](https://pypi.org/oauthlib)|v3.2.2|01/16/23|Feodor Fitsner |BSD-3-Clause|N/A|
-|[packaging](https://pypi.org/packaging)|v23.0|01/16/23|Feodor Fitsner |BSD-3-Clause,Apache-2.0|N/A|
-|[typing-extensions](https://pypi.org/typing-extensions)|v4.5.0|01/16/23|Feodor Fitsner |Python-2.0|N/A|
-|[watchdog](https://pypi.org/watchdog)|v2.2.1|01/16/23|Feodor Fitsner |Apache-2.0|N/A|
-|[websocket-client](https://pypi.org/websocket-client)|v1.5.1|01/16/23|Feodor Fitsner |Apache-2.0|N/A|
-|[websockets](https://pypi.org/websockets)|v10.4|01/16/23|Feodor Fitsner |BSD-3-Clause|N/A|
+|[httpx](https://pypi.org/project/httpx)|v0.23.3|01/16/23|Feodor Fitsner |BSD-3-Clause|N/A|
+|[oauthlib](https://pypi.org/project/oauthlib)|v3.2.2|01/16/23|Feodor Fitsner |BSD-3-Clause|N/A|
+|[packaging](https://pypi.org/project/packaging)|v23.0|01/16/23|Feodor Fitsner |BSD-3-Clause,Apache-2.0|N/A|
+|[typing-extensions](https://pypi.org/project/typing-extensions)|v4.5.0|01/16/23|Feodor Fitsner |Python-2.0|N/A|
+|[watchdog](https://pypi.org/project/watchdog)|v2.2.1|01/16/23|Feodor Fitsner |Apache-2.0|N/A|
+|[websocket-client](https://pypi.org/project/websocket-client)|v1.5.1|01/16/23|Feodor Fitsner |Apache-2.0|N/A|
+|[websockets](https://pypi.org/project/websockets)|v10.4|01/16/23|Feodor Fitsner |BSD-3-Clause|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (1)
@@ -374,4 +378,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
