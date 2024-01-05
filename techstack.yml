@@ -1,7 +1,8 @@
 repo_name: fisforfaheem/flet
 report_id: dcaac1691c90b1cdf602bb17225fb356
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T07:02:41+00:00'
+timestamp: '2024-01-05T08:58:46+00:00'
 requested_by: FeodorFitsner
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/fisforfaheem/flet
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/fisforfaheem/flet
   detection_source: Repo Metadata
 - name: Dart
   description: A new web programming language with libraries, a virtual machine, and
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/fisforfaheem/flet
   detection_source: Repo Metadata
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -46,6 +50,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/fisforfaheem/flet
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -56,6 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/fisforfaheem/flet
   detection_source: Repo Metadata
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -65,6 +71,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/fisforfaheem/flet
   detection_source: Repo Metadata
 - name: Objective-C
   description: The primary programming language you use when writing software for
@@ -75,6 +82,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/fisforfaheem/flet
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -85,6 +93,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/fisforfaheem/flet
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -95,6 +104,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/fisforfaheem/flet
   detection_source: Repo Metadata
 - name: Swift
   description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
@@ -105,6 +115,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/fisforfaheem/flet
   detection_source: Repo Metadata
 - name: Android SDK
   description: An SDK that provides you the API libraries and developer tools necessary
@@ -115,6 +126,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/android/app/build.gradle
   detection_source: client/android/app/build.gradle
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-05-20 03:53:42.000000000 Z
@@ -127,7 +139,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
-  detection_source: studio/client/pubspec.yaml
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.yaml
+  detection_source: client/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-10-11 15:56:59.000000000 Z
 - name: Gin Gonic
@@ -139,6 +152,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/4221/7894478.png
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/server/go.mod
   detection_source: server/go.mod
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-04-29 00:31:10.000000000 Z
@@ -151,7 +165,7 @@ tools:
   category: Libraries
   sub_category: State Management Library
   image_url: https://img.stackshare.io/service/4074/13142323.png
-  detection_source_url: client/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-08-21 17:47:38.000000000 Z
@@ -164,6 +178,7 @@ tools:
   category: Data Stores
   sub_category: In-Memory Databases
   image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/server/go.mod
   detection_source: server/go.mod
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-03-27 23:48:20.000000000 Z
@@ -175,6 +190,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/fisforfaheem/flet
   detection_source: Repo Metadata
 - name: Docker
   description: Enterprise Container Platform for High-Velocity Innovation.
@@ -185,6 +201,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/fisforfaheem/flet
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -194,6 +211,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/fisforfaheem/flet
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -204,6 +222,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/android/app/build.gradle
   detection_source: client/android/app/build.gradle
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-03-28 03:15:34.000000000 Z
@@ -215,6 +234,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/sdk/python/packages/flet/pyproject.toml
   detection_source: sdk/python/packages/flet/pyproject.toml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-01-16 03:24:39.000000000 Z
@@ -226,7 +246,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
-  detection_source: studio/client/ios/Gemfile
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/ios/Gemfile
+  detection_source: client/ios/Gemfile
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-05-20 16:38:28.000000000 Z
 - name: fastlane
@@ -239,8 +260,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Mobile Continuous Integration
   image_url: https://img.stackshare.io/service/2383/11098337.png
-  detection_source_url: client/ios/Gemfile.lock
-  detection_source: studio/client/ios/Gemfile
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/ios/Gemfile.lock
+  detection_source: client/ios/Gemfile
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-05-20 16:38:28.000000000 Z
 - name: npm
@@ -251,6 +272,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/package/pubspec.yaml
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-08-21 17:47:38.000000000 Z
@@ -262,6 +284,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/android/app/build.gradle
   detection_source: client/android/app/build.gradle
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-05-20 03:53:42.000000000 Z
@@ -274,8 +297,8 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
-  detection_source_url: client/ios/Gemfile.lock
-  detection_source: studio/client/ios/Podfile.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/ios/Gemfile.lock
+  detection_source: client/ios/Gemfile
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-05-20 16:58:20.000000000 Z
 - name: PowerShell
@@ -286,6 +309,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/fisforfaheem/flet
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -296,12 +320,14 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/fisforfaheem/flet
   detection_source: Repo Metadata
 - name: js
   website_url: www.js.com
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/5588/jscom.png
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/package/pubspec.yaml
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-08-21 17:47:38.000000000 Z
@@ -314,7 +340,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: client/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-05-11 20:07:12.000000000 Z
@@ -327,7 +353,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: client/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-08-21 17:47:38.000000000 Z
@@ -341,7 +367,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: client/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-08-21 17:47:38.000000000 Z
@@ -354,7 +380,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: client/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-05-11 21:10:55.000000000 Z
@@ -367,8 +393,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: client/pubspec.lock
-  detection_source: studio/client/pubspec.yaml
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
+  detection_source: client/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-10-11 15:56:59.000000000 Z
 - name: flutter_highlight
@@ -381,7 +407,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: client/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-05-11 21:10:55.000000000 Z
@@ -394,7 +420,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: client/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-05-11 21:10:55.000000000 Z
@@ -407,7 +433,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: client/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-05-11 21:10:55.000000000 Z
@@ -420,7 +446,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: client/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-05-11 21:10:55.000000000 Z
@@ -433,7 +459,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: client/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-01-16 03:24:39.000000000 Z
@@ -446,7 +472,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: client/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-08-21 17:47:38.000000000 Z
@@ -459,7 +485,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: client/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-08-21 17:47:38.000000000 Z
@@ -473,7 +499,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: client/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-05-11 21:10:55.000000000 Z
@@ -486,7 +512,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: client/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-01-16 03:24:39.000000000 Z
@@ -499,7 +525,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: client/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-08-21 17:47:38.000000000 Z
@@ -512,7 +538,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: client/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-05-11 21:10:55.000000000 Z
@@ -525,7 +551,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: client/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-09-08 02:16:42.000000000 Z
@@ -538,7 +564,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: client/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-08-21 17:47:38.000000000 Z
@@ -551,13 +577,13 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: client/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/pubspec.lock
   detection_source: package/pubspec.yaml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-05-11 21:10:55.000000000 Z
 - name: httpx
   description: The next generation HTTP client
-  package_url: https://pypi.org/httpx
+  package_url: https://pypi.org/project/httpx
   version: 0.23.3
   license: BSD-3-Clause
   open_source: true
@@ -565,13 +591,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20315/default_5f4e928dbcb1c4db4050881fc2e0229785fc931c.png
-  detection_source_url: sdk/python/poetry.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/sdk/python/poetry.lock
   detection_source: sdk/python/packages/flet/pyproject.toml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-01-16 03:24:39.000000000 Z
 - name: oauthlib
   description: A generic
-  package_url: https://pypi.org/oauthlib
+  package_url: https://pypi.org/project/oauthlib
   version: 3.2.2
   license: BSD-3-Clause
   open_source: true
@@ -579,13 +605,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20048/default_d9e0956c82c17d568b62f3b0d5e2080c1e501e59.png
-  detection_source_url: sdk/python/poetry.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/sdk/python/poetry.lock
   detection_source: sdk/python/packages/flet/pyproject.toml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-01-16 03:24:39.000000000 Z
 - name: packaging
   description: Core utilities for Python packages
-  package_url: https://pypi.org/packaging
+  package_url: https://pypi.org/project/packaging
   version: '23.0'
   license: BSD-3-Clause,Apache-2.0
   open_source: true
@@ -593,13 +619,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19894/default_f716e4bc541a9eb6e3f5b7a20d7c35355075b0b4.png
-  detection_source_url: sdk/python/poetry.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/sdk/python/poetry.lock
   detection_source: sdk/python/packages/flet/pyproject.toml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-01-16 03:24:39.000000000 Z
 - name: typing-extensions
   description: Backported and Experimental Type Hints for Python 3.5+
-  package_url: https://pypi.org/typing-extensions
+  package_url: https://pypi.org/project/typing-extensions
   version: 4.5.0
   license: Python-2.0
   open_source: true
@@ -607,13 +633,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19875/default_2270bfab784e3d2c2d999d26b11ee478a9dad238.png
-  detection_source_url: sdk/python/poetry.lock
-  detection_source: sdk/python/packages/flet/pyproject.toml
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/sdk/python/poetry.lock
+  detection_source: sdk/python/packages/flet-core/pyproject.toml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-01-16 03:24:39.000000000 Z
 - name: watchdog
   description: Filesystem events monitoring
-  package_url: https://pypi.org/watchdog
+  package_url: https://pypi.org/project/watchdog
   version: 2.2.1
   license: Apache-2.0
   open_source: true
@@ -621,13 +647,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19927/default_bb29140b72c0fb9789e567bba0ef0ffadeaef5d4.png
-  detection_source_url: sdk/python/poetry.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/sdk/python/poetry.lock
   detection_source: sdk/python/packages/flet/pyproject.toml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-01-16 03:24:39.000000000 Z
 - name: websocket-client
   description: WebSocket client for Python. hybi13 is supported
-  package_url: https://pypi.org/websocket-client
+  package_url: https://pypi.org/project/websocket-client
   version: 1.5.1
   license: Apache-2.0
   open_source: true
@@ -635,13 +661,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19910/default_67f813d4aac73d024261bcfded6ef2b918e384a0.png
-  detection_source_url: sdk/python/poetry.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/sdk/python/poetry.lock
   detection_source: sdk/python/packages/flet/pyproject.toml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-01-16 03:24:39.000000000 Z
 - name: websockets
   description: An implementation of the WebSocket Protocol
-  package_url: https://pypi.org/websockets
+  package_url: https://pypi.org/project/websockets
   version: '10.4'
   license: BSD-3-Clause
   open_source: true
@@ -649,7 +675,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19951/default_fbe690a687f1af7dc36ac3d526708be3294c4cc9.png
-  detection_source_url: sdk/python/poetry.lock
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/sdk/python/poetry.lock
   detection_source: sdk/python/packages/flet/pyproject.toml
   last_updated_by: Feodor Fitsner
   last_updated_on: 2023-01-16 03:24:39.000000000 Z
@@ -661,6 +687,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/android/app/build.gradle
   detection_source: client/android/app/build.gradle
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-03-28 03:15:34.000000000 Z
@@ -674,7 +701,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19189/default_2266a6c0e2693d55b1999a7c5db4be13e5720232.png
-  detection_source_url: client/ios/Gemfile.lock
-  detection_source: studio/client/ios/Gemfile
+  detection_source_url: https://github.com/fisforfaheem/flet/blob/main/client/ios/Gemfile.lock
+  detection_source: client/ios/Gemfile
   last_updated_by: Feodor Fitsner
   last_updated_on: 2022-05-20 16:58:20.000000000 Z
